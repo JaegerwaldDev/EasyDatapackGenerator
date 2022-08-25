@@ -1,7 +1,7 @@
 # EasyDatapackGenerator
 This is a simple Software that will generate a Datapack in your Minecraft Datpacks Folder.
 # How to install
-Download the latest version [here]() and then paste the file into your `.minecraft` Folder, which is found in your `AppData` Folder. It is recommended that you create a shortcut to the executeable on your Desktop; after all of that, simply execute it!
+Download the latest version [here](https://github.com/JaegerwaldDev/EasyDatapackGenerator/releases) and then paste the file into your `.minecraft` Folder, which is found in your `AppData` Folder. It is recommended that you create a shortcut to the executeable on your Desktop; after all of that, simply execute it!
 # Features
 When executed, the program will ask you for your Saved World Name.
 ```

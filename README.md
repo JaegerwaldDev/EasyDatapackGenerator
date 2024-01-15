@@ -1,5 +1,5 @@
 > [!NOTE]
-> This project will probably be remade as a part of [Netherrack](https://www.github.com/BastionMC/Netherrack/).
+> This project will probably be remade as a feature fot [Netherrack](https://www.github.com/BastionMC/Netherrack/).
 
 # EasyDatapackGenerator
 This is a simple Software that will generate a Datapack in your Minecraft Datpacks Folder.
